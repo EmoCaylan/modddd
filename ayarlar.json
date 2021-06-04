@@ -1,0 +1,6 @@
+{
+    "prefix" : "PREFIX",
+    "sahip" : ["SAHIPID"],
+    "token" : "TOKEN",
+    "botVoiceChannelID": "VOICECHANNELID"
+}
